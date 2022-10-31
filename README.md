@@ -15,7 +15,7 @@
 ## Лабораторная работа № 2
 
 ### Разработка простого веб-приложения (html,css,js + json,xml): 
-### "[Landing page](https://prismatic-belekoy-9368be.netlify.app/contact.html)"
+### "[Landing page](https://prismatic-belekoy-9368be.netlify.app)"
 
 
 
