@@ -29,4 +29,4 @@
 
 # Подготовка к экзамену
 ## Экзаменационный билет № 
-Ответ на экзаменационный билет доступен по ссылке: https://github.com/stankin/inet-2022/wiki/exam31
+Ответ на экзаменационный билет доступен по ссылке: [https://github.com/stankin/inet-2022/wiki/exam31](https://github.com/stankin/inet-2022/wiki/exam31/_compare/30a7239f080ad8200d2a5f048012bc6e50bd529c...83c08dcba2cf7c99bdcbb2282e7636222c7b261b)
